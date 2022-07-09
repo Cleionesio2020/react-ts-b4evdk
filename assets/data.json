@@ -1,0 +1,49 @@
+{
+  "title": "Musicas de domingo",
+  "data": "03-04/1977",
+  "quantMusica": 0,
+  "auutor": {
+    "name": "usuario1",
+    "username": "User123456",
+    "email": "user1@app.com",
+    "password": "123456"
+  },
+  "musics": [
+    {
+      "title": "Musica 01",
+      "Versao": "versao 01",
+      "tom": { "name": "DÓ", "sibol": "C" },
+      "voicePrincipal": {
+        "nome": "Cantor 01",
+        "email": "emailcantor1@app.com",
+        "contato": "31 974585555",
+        "funcao": [{ "funcao": "Voz" }, { "funcao": "Guitarra" }]
+      }
+    },
+    {
+      "title": "Musica 02",
+      "Versao": "versao 02",
+      "tom": { "name": "MI", "sibol": "E" },
+      "voicePrincipal": {
+        "nome": "Cantor 02",
+        "email": "emailcantor02@app.com",
+        "contato": "31 999999",
+        "funcao": [{ "funcao": "Voz" }]
+      }
+    }
+  ],
+  "escalados": [
+    {
+      "nome": "componete_01",
+      "email": "componete_01@app.com",
+      "contato": "31 999999",
+      "funcao": [{ "funcao": "Voz" }]
+    },
+    {
+      "nome": "componete_02",
+      "email": "componete_02@app.com",
+      "contato": "31 456789",
+      "funcao": [{ "funcao": "Voz" }, { "funcao": "Guitarra" }]
+    }
+  ]
+}
